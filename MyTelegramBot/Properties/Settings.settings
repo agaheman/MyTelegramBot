@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyTelegramBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BotToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">242237805:AAETMEwfgUUQFQC7R7to0TFKR3SSiygF7iY</Value>
+    </Setting>
+    <Setting Name="AccuweatherAPIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PfAoBuxcLsRecpUapvWA7l3RRTQiTIEY</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
